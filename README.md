@@ -1,2 +1,2 @@
 # OOP
-OOP domashni, MIG III-1
+OOP homework, MIG III-1
